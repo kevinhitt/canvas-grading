@@ -1,6 +1,7 @@
 # Quiz Reporting Toolkit
 
 A small pipeline to parse quiz XML, build a question bank, map questions to grades, and generate per-student reports.
+
 *Note*: Each step produces or consumes a CSV/Markdown that the next step uses—run in sequence for end-to-end report generation.
 
 ## Files
